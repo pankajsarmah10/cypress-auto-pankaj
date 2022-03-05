@@ -1,0 +1,3 @@
+node_modules/
+package-lock.json
+integration/my-tests/__image_snapshots__
